@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##1st Learning Log
+## 1st Learning Log
 
 Just a link to my learning log from Course 1 of Google Data Analytics course.
 
