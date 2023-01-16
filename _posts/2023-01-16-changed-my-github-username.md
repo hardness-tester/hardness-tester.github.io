@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## I changed my github username
 
