@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## Learning Log
+## 2nd Learning Log
 
 2nd Learning Log from this Google Data Analytics Course that I'm taking. My reflections are on the document found in the link below. 
 
