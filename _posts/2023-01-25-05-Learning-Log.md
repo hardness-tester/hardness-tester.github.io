@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 5th Learning Log
 
