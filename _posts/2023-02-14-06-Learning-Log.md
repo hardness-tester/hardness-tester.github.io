@@ -7,7 +7,7 @@ I know it's been a while since I posted a learning log from the course I'm takin
 
 There's a sentence from the learning log that resonated with me the most because often, I would always go for positive results when analyzing data or just about anything, but then the learning log reminded me the below statement:
 
-_"> ...negative results count just as much as positive results in data analysis."_
+> ...negative results count just as much as positive results in data analysis.
 
 
 [Learning Log: Reflect on the data analysis process](https://docs.google.com/document/d/1Y08NR568A_XZOokgPbKfT9pGJ5MQobIN2kh6pYdoe9w/edit?usp=sharing).
