@@ -10,4 +10,4 @@ There's a sentence from the learning log that resonated with me the most because
 _"> ...negative results count just as much as positive results in data analysis."_
 
 
-[Learning Log: Reflect on the data analysis process](http://daringfireball.net/projects/markdown/).
+[Learning Log: Reflect on the data analysis process](https://docs.google.com/document/d/1Y08NR568A_XZOokgPbKfT9pGJ5MQobIN2kh6pYdoe9w/edit?usp=sharing).
