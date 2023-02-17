@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Got my certificate for Course 1: Foundations: Data, Data, Everywhere of the Google Data Analytics Professional Certificate
 
