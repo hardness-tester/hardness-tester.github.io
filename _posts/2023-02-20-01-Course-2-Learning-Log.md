@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 1st Learning Log for Course 2
 
