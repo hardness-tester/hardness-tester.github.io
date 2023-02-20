@@ -7,6 +7,6 @@ Here's the link: [Learning Log: Consider what data means to you](https://docs.go
 
 I am trying to power through the 2nd Course of the Google Data Analytics Professional Certificate. I'm feeling really lazy right now but I need to finish this and actually learn something from it. I can do this!
 
-This course is about asking questions, techniques to ask and answer questions..just anything related to asking questions and finding out answers to this questions.
+This course is about asking questions, techniques to ask and answer questions..just anything related to asking questions and finding out answers to these questions.
 
 Hope the knowledge sticks with me in the long run. Good luck self!
