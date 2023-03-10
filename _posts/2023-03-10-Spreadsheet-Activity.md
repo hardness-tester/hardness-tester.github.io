@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A Spreadsheet Activity
 
@@ -14,5 +14,3 @@ The data here is made up, I just did this to practice using Google Sheets as I'm
 This is taken from World Bank so the data could be accurate. Well, it is accurate. It should be, right?
 
 [https://docs.google.com/spreadsheets/d/1dKFFFIKU6zvjx8xZWDWUQnQg6fXpqbG746zZfW4XP3k/edit?usp=sharing&resourcekey=0-6KbkgwiMaLjLgrk0J4hSFg](Population, Latin and Caribbean Countries, 2010-2019 "Source: World Bank")
-
-
